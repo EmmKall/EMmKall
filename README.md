@@ -4,6 +4,11 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/emm-cal/) [EmmKall]
 
+
+#### Mis estadisticas son:
+
+![Anurag´s GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmKall&show_icon=true&theme=dracula)
+
 ### Lenguajes y Frameworks
 
 Frontend: <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="35">
@@ -22,8 +27,5 @@ Backend: <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/p
 Más herramientas <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="35"> 
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="GitHub" width="35">
 
-#### Mis estadisticas son:
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmKall&show_icon=true&theme=tokyonight)
-
 
