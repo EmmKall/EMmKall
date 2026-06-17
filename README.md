@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJoZ3l0b2U3ZHk4M3N6c2Vlc3doYXNlZzhkMzhwZGRsMzljYXQyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Snake animation" />
+<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJoZ3l0b2U3ZHk4M3N6c2Vlc3doYXNlZzhkMzhwZGRsMzljYXQyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Dev codding" />
 
 ###
 
